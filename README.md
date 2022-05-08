@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GizmoDevs
-- 👀 I’m interested in Web Dev, Fishing, Business & most importantly, Gaming!
+- 👀 I’m interested in Web Dev, Fishing, Business & Gaming!
 - 🌱 I’m currently learning Javascript, PHP & Laravel Framework
 - 💞️ I’m looking to collaborate on entry level projects / tasks.
 - 📫 How to reach me: https://twitter.com/JamieCodes
